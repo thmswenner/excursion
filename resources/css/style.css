@@ -2,15 +2,17 @@ body{
   background-color: black;
   text-align: center;
   font-family: verdana;
+  color: white;
 }
 
-h1,
-h2{
-  color: white;
+.cta {
+  color: aquamarine;
+  font-size: 16px;
 }
 
 h1{
   font-size: 50px;
+  font-weight: normal;
 }
 
 h2{
@@ -21,11 +23,6 @@ h2{
 p {
   color: grey;
   font-size: 21px;
-}
-
-a{
-  color: Aquamarine;
-  font-size: 16px;
 }
 
 .right-align{
